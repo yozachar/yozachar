@@ -5,7 +5,7 @@ Hello! You can call me *Joe*. I'm a technophile.
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 April 2023 - To: 14 April 2023
+From: 08 April 2023 - To: 15 April 2023
 
 Total Time: 12 hrs 23 mins
 

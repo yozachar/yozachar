@@ -5,12 +5,12 @@ Hello! You can call me *Joe*. I'm a technophile.
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 April 2023 - To: 18 April 2023
+From: 12 April 2023 - To: 19 April 2023
 
-Total Time: 11 hrs 8 mins
+Total Time: 7 hrs 13 mins
 
-Python       5 hrs 6 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.06 %
-Other        3 hrs 3 mins    ⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.50 %
+Python       3 hrs 14 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.94 %
+Other        2 hrs 54 mins   ⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.74 %
 ```
 
 <!--END_SECTION:waka-->

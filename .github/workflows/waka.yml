@@ -16,3 +16,4 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TOTAL: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          STOP_AT_OTHER: true

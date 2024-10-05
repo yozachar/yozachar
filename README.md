@@ -1,9 +1,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-INI      0 hrs 7 mins    ███████████████▒░░░░░░░░░   61.70 %
-TOML     0 hrs 2 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
-Python   0 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.30 %
+Python   0 hrs 2 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
+YAML     0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->

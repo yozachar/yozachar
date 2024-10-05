@@ -1,0 +1,20 @@
+name: Waka Readme
+
+on:
+  # for manual workflow trigger
+  workflow_dispatch:
+  schedule:
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: "DevMetrics"
+    runs-on: "ubuntu-latest"
+    steps:
+      - uses: "athul/waka-readme@master"
+        with:
+          API_BASE_URL: "https://wakapi.dev/api"
+          WAKATIME_API_KEY: "${{ secrets.WAKATIME_API_KEY }}"
+          COMMIT_MESSAGE: "chore: updated waka-readme graph with new metrics"
+          TARGET_BRANCH: "main"

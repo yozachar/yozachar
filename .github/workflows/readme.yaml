@@ -17,4 +17,3 @@ jobs:
           API_BASE_URL: "https://wakapi.dev/api"
           WAKATIME_API_KEY: "${{ secrets.WAKATIME_API_KEY }}"
           COMMIT_MESSAGE: "chore: updated waka-readme graph with new metrics"
-          IGNORED_LANGUAGES: "INI TOML YAML"

@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-unknown    0 hrs 52 mins   ████████████████████▓░░░░   83.09 %
-Markdown   0 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
-Java       0 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+unknown    0 hrs 14 mins   ██████████████▒░░░░░░░░░░   56.95 %
+Markdown   0 hrs 9 mins    ████████▓░░░░░░░░░░░░░░░░   34.92 %
+Java       0 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
 ```
 
 <!--END_SECTION:waka-->

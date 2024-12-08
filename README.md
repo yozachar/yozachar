@@ -1,11 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON      0 hrs 21 mins   ███████████▒░░░░░░░░░░░░░   44.98 %
-Python    0 hrs 14 mins   ███████▒░░░░░░░░░░░░░░░░░   29.55 %
-TOML      0 hrs 12 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.09 %
-unknown   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Java      0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-XML   0 hrs 9 mins    █████████████████████████   100.00 %
+unknown   0 hrs 6 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

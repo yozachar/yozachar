@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-unknown   0 hrs 8 mins    █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
